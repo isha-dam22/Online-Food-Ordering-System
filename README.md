@@ -31,7 +31,7 @@ password for both is = isha
 #### (You can create your own id and p/w in phpmyadmin - localhost)*
 
 
-## Authors
+## Author
 
 - [@isha-dam22](https://www.github.com/isha-dam22)
 
